@@ -43,8 +43,9 @@ japa-counter/
 
 >Layout is responsive and mobile-first.
 
->Deployment
 
+
+# **Deployment**
 >This project can be deployed anywhere that hosts static files, such as:
 
 >GitHub Pages
