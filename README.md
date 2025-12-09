@@ -1,8 +1,8 @@
-##**A minimal, elegant, one-HTML-file web app for counting japa/mantra repetitions.
+## **A minimal, elegant, one-HTML-file web app for counting japa/mantra repetitions.
 Runs flawlessly on mobile (iPhone/Android) and desktop: no installs, no backend, no dependencies.**
 
 
-#**Features**
+# **Features**
 >Single-file application (index.html)
 
 >Tap or click to increment the counter
@@ -19,7 +19,7 @@ Runs flawlessly on mobile (iPhone/Android) and desktop: no installs, no backend,
 
 
 
-#**Usage**
+# **Usage**
 >Open index.html in any browser.
 
 >Tap anywhere on the main button area to increase the count.
@@ -34,7 +34,7 @@ japa-counter/
 
 
 
-#**Technical Notes:**
+# **Technical Notes:**
 >All logic is written in vanilla JavaScript inside the HTML file.
 
 >No external libraries, fonts, or stylesheets.
@@ -58,5 +58,4 @@ japa-counter/
 >Simply upload index.html.
 
 
-**License
-MIT License.**
+# **MIT License.**
