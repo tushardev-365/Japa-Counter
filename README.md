@@ -1,4 +1,4 @@
-## **A minimal, elegant, one-HTML-file web app for counting japa/mantra repetitions.**
+## **A minimal, elegant, one-HTML-file web app for counting Japa/Mantra repetitions.**
 ## **Runs flawlessly on mobile (iPhone/Android) and desktop: no installs, no backend, no dependencies.**
 
 
